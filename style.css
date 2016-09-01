@@ -1,6 +1,11 @@
+
 h1 {
   color: yellow;
+  background-image: url ("http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-5.jpg")
 }
-body {
-  background-image: url("nirvana.jpg")
+h2 {
+  color: white;
+}
+p {
+  color: white;
 }
