@@ -1,11 +1,29 @@
-
+@import 'https://fonts.googleapis.com/css?family=Bungee+Shade';
 h1 {
+ text-align: center;
   color: yellow;
-  background-image: url ("http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-5.jpg")
+  font-family: bungee shade;
+  font-size: 50px;
 }
 h2 {
   color: white;
 }
 p {
   color: white;
+  boreder: 5px dotted white;
+}
+body {
+  background-color: black;
+}
+nav {
+  text-align: center;
+  display: block;
+}
+.box {
+  padding-top: 10px;
+  padding-bottom:10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 1px solid white;
+  display: inline-block;
 }
